@@ -1,0 +1,20 @@
+
+
+
+
+""""
+The program is trying to determine the best payment option. 
+The first payment option is for $100 a day for 10 days
+The second payment option is for $1 the first day, $2 the second day and so on until it has reached 10 days.
+Find a solution to see which option produces the most money at the 10th day or see if they are the same.
+
+Fuction1 will output 100 * 10
+
+Function2 will loop 10 times, each time doubling, and add the amount to the total
+
+If the total amounts ae equal, we output to the user, "Option 1 and Option 2 are the same"
+If option 1 is better, we output to the user, "Option 1 is better"
+If option 2 is better, we output to the user, "Option 2 is better"
+
+
+""""
